@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Angelino-Valeta/js-tdd/issues"
   },
-  "homepage": "https://github.com/Angelino-Valeta/js-tdd#readme"
+  "homepage": "https://github.com/Angelino-Valeta/js-tdd#readme",
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
 }
