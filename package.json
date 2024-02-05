@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Angelino-Valeta/js-tdd#readme",
   "dependencies": {
-    "yarn": "^1.22.4"
+    "yarn": "^1.22.13"
   }
 }
